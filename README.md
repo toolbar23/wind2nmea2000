@@ -9,6 +9,7 @@ Hardware used
 6) 1x MAX3232 RS232 to TTL Converter
 7) 12V->5V DC-DC adaptor
 
+```
                             WINDVANE                                                    
                                |------------------------------12VDC---------------|
                                |                                                  |
@@ -25,7 +26,7 @@ Hardware used
  in Hull                 |               |                                         |
                          |               |                                         |
                       SDCARD             ------12V5V DCDC -------------------------- 
-
+```
 
 Dependencies
 ----------------------------------------------------------------------------
